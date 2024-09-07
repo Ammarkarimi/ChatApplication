@@ -65,7 +65,7 @@ def splash_screen(page: ft.Page):
     page.add(splash)
 
     def remove_splash_screen():
-        time.sleep(10)  # Show the splash screen for 3 seconds
+        time.sleep(3)  # Show the splash screen for 3 seconds
         page.clean()  # Remove splash screen
         instruction_page(page)  # Load instruction page
 
