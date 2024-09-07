@@ -5,8 +5,13 @@ This project is a chatbot application built using [Flet](https://flet.dev/) for 
 ## Features
 
 - **Splash Screen**: Displays a welcome message before loading the main interface.
+![Splash Screen](Image/Splash-screen.png)
 - **Instruction Page**: Provides guidelines for interacting with the chatbot. Users must agree to the terms and conditions to proceed to the chat.
+![Instruction](Image/Instruction-page.png)
 - **Chat Interface**: Users can enter a name, ask questions, and receive precise responses from the chatbot.
+![Name-Page](Image/Name-page.png)
+![Chat-Interface](Image/Chat-Interface1.png)
+![Chat-Interface](Image/Chat-Interface2.png)
 - **Message Auto-scroll**: Chat messages automatically scroll to the latest message.
 - **Flet-based UI**: Interactive, responsive user interface for web-based applications.
 
